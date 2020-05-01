@@ -29,9 +29,9 @@ Projeyi çalıştırmak için ilk olarak python 3.7 sisteminize kurun. Herhangi 
 
 * **Batuhan Güneş**  - [BatuhanGunes](https://github.com/BatuhanGunes)
 
-Ayrıca, bu projeye katılan ve katkıda bulunanlara [contributors](https://github.com/BatuhanGunes/ErosionAndDilationFilter/graphs/contributors) listesinden ulaşabilirsiniz.
+Ayrıca, bu projeye katılan ve katkıda bulunanlara [contributors](https://github.com/BatuhanGunes/FaceDetectionProject/graphs/contributors) listesinden ulaşabilirsiniz.
 
 ## Lisans
 
-Bu proje Apache lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE.md](https://github.com/BatuhanGunes/ErosionAndDilationFilter/blob/master/LICENSE) dosyasına bakabilirsiniz.
+Bu proje Apache lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE.md](https://github.com/BatuhanGunes/FaceDetectionProject/blob/master/LICENSE) dosyasına bakabilirsiniz.
 
